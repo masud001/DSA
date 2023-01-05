@@ -6,4 +6,5 @@
 
 -   1. [time complexity](https://www.youtube.com/watch?v=bfB4YN_4Vyo&list=PLym69wpbTIIEOesltWGUsVnY9HDWbJit_&index=2)
 
+![Time complexity](images/time-complexity.png?raw=true 'Time Complexity')
 ![big-o-complexity](images/big-o-complexity.png?raw=true 'Big-O Complexity')
