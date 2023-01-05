@@ -1,7 +1,7 @@
 # DSA
 
-### info: [YouTube Video] Tamim Shahriar subin:
+### Info: [YouTube Video] Tamim Shahriar Subin:
 
 [Video link](https://www.youtube.com/watch?v=Mz9BlmST31w&list=PLym69wpbTIIEOesltWGUsVnY9HDWbJit_)
 
-1. learning Data structure and algorithm.
+-   1. [time complexity](https://www.youtube.com/watch?v=bfB4YN_4Vyo&list=PLym69wpbTIIEOesltWGUsVnY9HDWbJit_&index=2)
