@@ -12,4 +12,3 @@ const mergeArray = (arr1, arr2) => {
   return arr3;
 };
 mergeArray(arr1, arr2);
-console.log(arr3);
